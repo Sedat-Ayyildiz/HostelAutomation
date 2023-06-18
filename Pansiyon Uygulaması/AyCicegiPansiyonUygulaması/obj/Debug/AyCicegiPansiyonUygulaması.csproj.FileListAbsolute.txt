@@ -1,0 +1,39 @@
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmAdminGiris.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmAnaSayfa.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.Properties.Resources.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.csproj.GenerateResource.cache
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\bin\Debug\AyCicegiPansiyonUygulaması.exe.config
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\bin\Debug\AyCicegiPansiyonUygulaması.exe
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\bin\Debug\AyCicegiPansiyonUygulaması.pdb
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmGelirGider.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmMusteriler.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmOdalar.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmStoklar.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmYeniMusteri.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.exe
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.pdb
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmGazeteler.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmSifreGuncelle.resources
+C:\Users\sedat\source\repos\AyCicegiPansiyonUygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmMesajlar.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\bin\Debug\AyCicegiPansiyonUygulaması.exe.config
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\bin\Debug\AyCicegiPansiyonUygulaması.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\bin\Debug\AyCicegiPansiyonUygulaması.pdb
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.csproj.AssemblyReference.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmAdminGiris.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmAnaSayfa.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmGazeteler.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmGelirGider.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmMesajlar.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmMusteriler.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmOdalar.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmSifreGuncelle.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmStoklar.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.FrmYeniMusteri.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.Properties.Resources.resources
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.csproj.GenerateResource.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.exe
+C:\Users\SEDAT AYYILDIZ\source\repos\3-) C# KAPSAMLI PROJELER(SQL - ENTİTYFRAMEWORK)\5-) Ay Cicegi Pansiyon Uygulaması\AyCicegiPansiyonUygulaması\obj\Debug\AyCicegiPansiyonUygulaması.pdb
